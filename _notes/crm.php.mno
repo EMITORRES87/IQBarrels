@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_crm" value="name:ID;datatype:int,name:Nombre;datatype:string,name:Correo;datatype:string,name:Edad;datatype:string,name:Pais;datatype:string" />
+	<infoitem key="UD_crm2" value="name:ID;datatype:int,name:Producto;datatype:string,name:Cliente;datatype:string,name:Fecha de entrega;datatype:string,name:Costo;datatype:string" />
+</info>
